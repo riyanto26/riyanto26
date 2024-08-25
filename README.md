@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rynnnnnn_26" target="blank"><img src="https://img.shields.io/twitter/follow/rynnnnnn_26?logo=twitter&style=for-the-badge" alt="rynnnnnn_26" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Android, MEARN**
